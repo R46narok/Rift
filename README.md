@@ -49,7 +49,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+</div>
 
 *Rift* is a set of libraries, which aim to make developing microservices easier.
 
