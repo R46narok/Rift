@@ -169,5 +169,5 @@ The following libraries were used in the development of the project:
 [issues-shield]: https://img.shields.io/github/issues/r46narok/rift.svg?style=for-the-badge
 [issues-url]: https://github.com/r46narok/rift/issues
 [license-shield]: https://img.shields.io/github/license/r46narok/rift.svg?style=for-the-badge
-[license-url]: https://github.com/r46narok/rift/blob/master/LICENSE.txt
+[license-url]: https://github.com/r46narok/rift/blob/master/LICENSE
 [product-screenshot]: images/logo.png
