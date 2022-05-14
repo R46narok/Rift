@@ -50,7 +50,7 @@
 ## About The Project
 
 <div align="center">
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img align="center" src="https://github.com/R46narok/Rift/blob/master/images/logo.png">
 </div>
 
 *Rift* is a set of libraries, which aim to make developing microservices easier.
