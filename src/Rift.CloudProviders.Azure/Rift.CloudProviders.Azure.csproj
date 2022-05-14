@@ -4,6 +4,12 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Rift.CloudProviders.Azure</Title>
+        <Authors>R46narok</Authors>
+        <PackageProjectUrl>https://github.com/R46narok/Rift</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/R46narok/Rift</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
     <ItemGroup>
@@ -16,10 +22,10 @@
         <PackageReference Include="Azure.Extensions.AspNetCore.Configuration.Secrets" Version="1.2.2" />
         <PackageReference Include="Azure.Identity" Version="1.6.0" />
         <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.7.0" />
-        <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
         <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="4.1.0" />
         <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.1.0" />
         <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
     </ItemGroup>
 
     <ItemGroup>
