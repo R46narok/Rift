@@ -140,8 +140,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 👤  **Stanimir Kolev**
 
--   [R46narok](https://github.com/R46narok)
--   [StanimirKolev](https://www.linkedin.com/in/stanimir-kolev-60984a227/)
+-   GitHub - [R46narok](https://github.com/R46narok)
+-   LinkedIn - [StanimirKolev](https://www.linkedin.com/in/stanimir-kolev-60984a227/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
